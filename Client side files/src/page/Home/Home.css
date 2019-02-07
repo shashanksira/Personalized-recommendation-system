@@ -1,0 +1,22 @@
+li.listMenu {
+    display: inline-block;
+    width: 30%;
+    margin: 0px 10px;   
+}
+
+ul.ulMenu {
+    /* width: 80%;
+    margin: 3% auto 0; */
+    padding: 3%;
+    background: firebrick;
+    font: caption;
+}
+
+a.link-menu {
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    color: white
+}

@@ -1,0 +1,15 @@
+/* .ant-col-8.rating-block-container {
+  position:relative;
+}
+.rating-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+} */
+
+.ques-title {
+  font-size: 30px;
+  width: 80%;
+  margin: auto;
+}

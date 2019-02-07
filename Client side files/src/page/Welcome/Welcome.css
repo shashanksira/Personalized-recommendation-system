@@ -1,0 +1,26 @@
+/* .btn-container .ant-btn {
+    width: 200px
+}
+
+.button.ant-btn {
+    width: 200px
+} */
+
+.welcomeContainer{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.btn-container {
+    padding-top: 6%;
+}
+
+.signUp-btn {
+    padding-bottom: 3%;
+}
+
+.welcomeTitle {
+    font-size: 60px;
+}
